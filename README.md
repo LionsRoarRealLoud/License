@@ -1,4 +1,4 @@
-# License
+# MIT License
 Copyright 2021 Roar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), 
